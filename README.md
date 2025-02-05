@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chana Samangrathana</h1>
 <h3 align="center">Information Technology</h3>
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ozMmN4cXV1a3Q1aTFsMzZ3dmwwdWk0ZXAwMW54dmprdGY2ZGhuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rqd9R3yaDy16a8kDC1/giphy.gif"
+<img align="center" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ozMmN4cXV1a3Q1aTFsMzZ3dmwwdWk0ZXAwMW54dmprdGY2ZGhuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rqd9R3yaDy16a8kDC1/giphy.gif"
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/?ref=homescreenpwa&_rdc=1&_rdr#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/?ref=homescreenpwa&_rdc=1&_rdr#" height="30" width="40" /></a>
