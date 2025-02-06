@@ -19,7 +19,7 @@
 
 ## 🚀 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,tailwind,postgresql,mongodb,git,docker,nginx,linux,figma,typescript,javascript" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,tailwind,postgresql,mongodb,git,docker,figma,typescript,javascript" />
 </p>
 
 ---
