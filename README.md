@@ -6,13 +6,13 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ozMmN4cXV1a3Q1aTFsMzZ3dmwwdWk0ZXAwMW54dmprdGY2ZGhuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rqd9R3yaDy16a8kDC1/giphy.gif" width="300"/>
 </p>
 
-<h3 align="center">💻 Full-Stack Developer | UI/UX Designer | Spring & Microservices</h3>
+<h3 align="center">💻 I LOVE CODING</h3>
 
 ---
 
 ## ✨ About Me  
 💖 Passionate about UI/UX Design and Web Development  
-🎨 Love working with **React, Spring Boot & Tailwind CSS**  
+🎨 Love working with **React,NextJs, Spring Boot & Tailwind CSS**  
 🐱 Always learning new technologies! 
 
 ---
